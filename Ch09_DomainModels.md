@@ -31,8 +31,6 @@
 
 <img src="./img/09-1.png">
 
-1. Item : 
-
 
 ## Domain Model is Not Software Objects
 
@@ -85,7 +83,7 @@
   2. 그리고 그들 사이의 관계와 attributes를 추가하면 된다.
 
 - 그럼 conceptual classes의 이름이나 attributes의 이름은 어떻게 찾는 것인가 ?
-  - 위의 그림처럼 use case에서 모데인 모델일 될 만한 명사나 명사구를 식별한다.
+  - 위의 그림처럼 use case에서 도메인 모델일 될 만한 명사나 명사구를 식별한다.
   - 식별한 명사와 명사구들을 바탕으로 conceptual classes의 이름이나 attributes의 이름을 짓는다.
 
 
